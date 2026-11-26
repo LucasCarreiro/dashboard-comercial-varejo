@@ -1,0 +1,146 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* Tokens de cor por papel. Claro e escuro são escolhidos, não invertidos. */
+:root {
+  color-scheme: light;
+  --plane: #f4f5f7;
+  --surface: #ffffff;
+  --surface-2: #f7f8fa;
+  --ink: #191919;
+  --ink-2: #5f6368;
+  --ink-3: #8a8f96;
+  --line: #e7e7e7;
+  --axis: #c2c2c2;
+  --ring: rgba(11, 11, 11, 0.1);
+
+  --series-1: #257de0; /* realizado */
+  --series-1-soft: rgba(37, 125, 224, 0.1);
+  --ref: #8c8c8c; /* meta (referência) */
+
+  --good: #0aac23;
+  --good-ink: #006c10;
+  --warning: #fbb315;
+  --serious: #f18a59;
+  --critical: #dc3c3d;
+  --critical-ink: #b3261e;
+
+  --div-neg: #ec4647;
+  --div-mid: #efefef;
+  --div-pos: #257de0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --plane: #0b0b0b;
+    --surface: #191919;
+    --surface-2: #202020;
+    --ink: #efefef;
+    --ink-2: #a3a3a3;
+    --ink-3: #7c7c7c;
+    --line: #303030;
+    --axis: #474747;
+    --ring: rgba(255, 255, 255, 0.1);
+    --series-1: #338ced;
+    --series-1-soft: rgba(51, 140, 237, 0.14);
+    --ref: #7a7a7a;
+    --good-ink: #53c556;
+    --critical-ink: #ff8a80;
+    --div-neg: #eb6263;
+    --div-mid: #383838;
+    --div-pos: #338ced;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --plane: #0b0b0b;
+  --surface: #191919;
+  --surface-2: #202020;
+  --ink: #efefef;
+  --ink-2: #a3a3a3;
+  --ink-3: #7c7c7c;
+  --line: #303030;
+  --axis: #474747;
+  --ring: rgba(255, 255, 255, 0.1);
+  --series-1: #338ced;
+  --series-1-soft: rgba(51, 140, 237, 0.14);
+  --ref: #7a7a7a;
+  --good-ink: #53c556;
+  --critical-ink: #ff8a80;
+  --div-neg: #eb6263;
+  --div-mid: #383838;
+  --div-pos: #338ced;
+}
+
+@theme inline {
+  --color-plane: var(--plane);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-line: var(--line);
+  --color-accent: var(--series-1);
+  --color-accent-soft: var(--series-1-soft);
+  --color-good: var(--good);
+  --color-good-ink: var(--good-ink);
+  --color-warning: var(--warning);
+  --color-serious: var(--serious);
+  --color-critical: var(--critical);
+  --color-critical-ink: var(--critical-ink);
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+html,
+body {
+  background: var(--plane);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.card {
+  min-width: 0;
+  background: var(--surface);
+  border-radius: 14px;
+  box-shadow: 0 0 0 1px var(--ring);
+}
+
+select,
+button {
+  font: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--series-1);
+  outline-offset: 2px;
+}
+
+/* Recharts: sem contorno de foco no SVG inteiro */
+.recharts-surface:focus,
+.recharts-wrapper:focus {
+  outline: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .entrar {
+    animation: entrar 0.35s ease-out both;
+  }
+  @keyframes entrar {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+}
