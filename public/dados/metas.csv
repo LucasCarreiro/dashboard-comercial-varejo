@@ -1,0 +1,321 @@
+mes,canal,unidade,categoria,meta_venda,meta_margem
+2026-03,Varejo,Loja 01 · Centro,Arroz,84391.59,8.5
+2026-03,Varejo,Loja 01 · Centro,Feijão,53144.12,11.0
+2026-03,Varejo,Loja 01 · Centro,Açúcar,33882.82,9.0
+2026-03,Varejo,Loja 01 · Centro,Café,59544.29,15.5
+2026-03,Varejo,Loja 01 · Centro,Óleo de soja,41640.53,7.0
+2026-03,Varejo,Loja 01 · Centro,Azeite,25577.29,21.0
+2026-03,Varejo,Loja 01 · Centro,Leite em pó,50252.02,6.0
+2026-03,Varejo,Loja 01 · Centro,Leite UHT,56902.68,5.5
+2026-03,Varejo,Loja 01 · Centro,Massas,29996.32,18.0
+2026-03,Varejo,Loja 01 · Centro,Farinha de trigo,23746.84,12.0
+2026-03,Varejo,Loja 02 · Zona Norte,Arroz,60758.56,8.5
+2026-03,Varejo,Loja 02 · Zona Norte,Feijão,40251.15,11.0
+2026-03,Varejo,Loja 02 · Zona Norte,Açúcar,25186.72,9.0
+2026-03,Varejo,Loja 02 · Zona Norte,Café,43390.97,15.5
+2026-03,Varejo,Loja 02 · Zona Norte,Óleo de soja,31578.99,7.0
+2026-03,Varejo,Loja 02 · Zona Norte,Azeite,19739.12,21.0
+2026-03,Varejo,Loja 02 · Zona Norte,Leite em pó,36867.05,6.0
+2026-03,Varejo,Loja 02 · Zona Norte,Leite UHT,41801.81,5.5
+2026-03,Varejo,Loja 02 · Zona Norte,Massas,21763.37,18.0
+2026-03,Varejo,Loja 02 · Zona Norte,Farinha de trigo,17337.66,12.0
+2026-03,Varejo,Loja 03 · Zona Sul,Arroz,71653.51,8.5
+2026-03,Varejo,Loja 03 · Zona Sul,Feijão,46591.13,11.0
+2026-03,Varejo,Loja 03 · Zona Sul,Açúcar,30368.01,9.0
+2026-03,Varejo,Loja 03 · Zona Sul,Café,51687.91,15.5
+2026-03,Varejo,Loja 03 · Zona Sul,Óleo de soja,36421.34,7.0
+2026-03,Varejo,Loja 03 · Zona Sul,Azeite,22445.90,21.0
+2026-03,Varejo,Loja 03 · Zona Sul,Leite em pó,42853.25,6.0
+2026-03,Varejo,Loja 03 · Zona Sul,Leite UHT,48687.73,5.5
+2026-03,Varejo,Loja 03 · Zona Sul,Massas,26237.57,18.0
+2026-03,Varejo,Loja 03 · Zona Sul,Farinha de trigo,19510.65,12.0
+2026-03,Varejo,Loja 04 · Zona Leste,Arroz,49958.42,8.5
+2026-03,Varejo,Loja 04 · Zona Leste,Feijão,32681.01,11.0
+2026-03,Varejo,Loja 04 · Zona Leste,Açúcar,20756.87,9.0
+2026-03,Varejo,Loja 04 · Zona Leste,Café,34769.06,15.5
+2026-03,Varejo,Loja 04 · Zona Leste,Óleo de soja,24143.31,7.0
+2026-03,Varejo,Loja 04 · Zona Leste,Azeite,15699.35,21.0
+2026-03,Varejo,Loja 04 · Zona Leste,Leite em pó,29810.90,6.0
+2026-03,Varejo,Loja 04 · Zona Leste,Leite UHT,32940.37,5.5
+2026-03,Varejo,Loja 04 · Zona Leste,Massas,17957.42,18.0
+2026-03,Varejo,Loja 04 · Zona Leste,Farinha de trigo,14125.74,12.0
+2026-03,Varejo,Loja 05 · Litoral,Arroz,43107.72,8.5
+2026-03,Varejo,Loja 05 · Litoral,Feijão,28808.94,11.0
+2026-03,Varejo,Loja 05 · Litoral,Açúcar,18099.85,9.0
+2026-03,Varejo,Loja 05 · Litoral,Café,31809.28,15.5
+2026-03,Varejo,Loja 05 · Litoral,Óleo de soja,22332.46,7.0
+2026-03,Varejo,Loja 05 · Litoral,Azeite,13584.13,21.0
+2026-03,Varejo,Loja 05 · Litoral,Leite em pó,25567.12,6.0
+2026-03,Varejo,Loja 05 · Litoral,Leite UHT,28527.17,5.5
+2026-03,Varejo,Loja 05 · Litoral,Massas,15764.98,18.0
+2026-03,Varejo,Loja 05 · Litoral,Farinha de trigo,12187.74,12.0
+2026-03,Venda externa,Rota 01 · Capital,Arroz,123232.76,6.3
+2026-03,Venda externa,Rota 01 · Capital,Feijão,79358.84,8.8
+2026-03,Venda externa,Rota 01 · Capital,Açúcar,50646.16,6.8
+2026-03,Venda externa,Rota 01 · Capital,Café,87189.01,13.3
+2026-03,Venda externa,Rota 01 · Capital,Óleo de soja,63268.58,4.8
+2026-03,Venda externa,Rota 01 · Capital,Azeite,38252.86,18.8
+2026-03,Venda externa,Rota 01 · Capital,Leite em pó,71843.99,3.8
+2026-03,Venda externa,Rota 01 · Capital,Leite UHT,81424.80,3.3
+2026-03,Venda externa,Rota 01 · Capital,Massas,43624.70,15.8
+2026-03,Venda externa,Rota 01 · Capital,Farinha de trigo,35097.24,9.8
+2026-03,Venda externa,Rota 02 · Interior,Arroz,86392.47,6.3
+2026-03,Venda externa,Rota 02 · Interior,Feijão,55005.99,8.8
+2026-03,Venda externa,Rota 02 · Interior,Açúcar,34624.96,6.8
+2026-03,Venda externa,Rota 02 · Interior,Café,60264.84,13.3
+2026-03,Venda externa,Rota 02 · Interior,Óleo de soja,42369.25,4.8
+2026-03,Venda externa,Rota 02 · Interior,Azeite,26042.97,18.8
+2026-03,Venda externa,Rota 02 · Interior,Leite em pó,51619.73,3.8
+2026-03,Venda externa,Rota 02 · Interior,Leite UHT,58289.05,3.3
+2026-03,Venda externa,Rota 02 · Interior,Massas,30844.73,15.8
+2026-03,Venda externa,Rota 02 · Interior,Farinha de trigo,24355.15,9.8
+2026-03,Venda externa,Rota 03 · Sertão,Arroz,58584.76,6.3
+2026-03,Venda externa,Rota 03 · Sertão,Feijão,38336.01,8.8
+2026-03,Venda externa,Rota 03 · Sertão,Açúcar,23403.53,6.8
+2026-03,Venda externa,Rota 03 · Sertão,Café,41628.85,13.3
+2026-03,Venda externa,Rota 03 · Sertão,Óleo de soja,29404.53,4.8
+2026-03,Venda externa,Rota 03 · Sertão,Azeite,18302.89,18.8
+2026-03,Venda externa,Rota 03 · Sertão,Leite em pó,35132.27,3.8
+2026-03,Venda externa,Rota 03 · Sertão,Leite UHT,39102.86,3.3
+2026-03,Venda externa,Rota 03 · Sertão,Massas,21108.71,15.8
+2026-03,Venda externa,Rota 03 · Sertão,Farinha de trigo,16688.38,9.8
+2026-04,Varejo,Loja 01 · Centro,Arroz,83638.98,8.5
+2026-04,Varejo,Loja 01 · Centro,Feijão,56731.05,11.0
+2026-04,Varejo,Loja 01 · Centro,Açúcar,34663.83,9.0
+2026-04,Varejo,Loja 01 · Centro,Café,60141.80,15.5
+2026-04,Varejo,Loja 01 · Centro,Óleo de soja,41328.15,7.0
+2026-04,Varejo,Loja 01 · Centro,Azeite,26349.99,21.0
+2026-04,Varejo,Loja 01 · Centro,Leite em pó,49946.53,6.0
+2026-04,Varejo,Loja 01 · Centro,Leite UHT,56109.60,5.5
+2026-04,Varejo,Loja 01 · Centro,Massas,29445.15,18.0
+2026-04,Varejo,Loja 01 · Centro,Farinha de trigo,24007.29,12.0
+2026-04,Varejo,Loja 02 · Zona Norte,Arroz,61699.62,8.5
+2026-04,Varejo,Loja 02 · Zona Norte,Feijão,41245.40,11.0
+2026-04,Varejo,Loja 02 · Zona Norte,Açúcar,26196.89,9.0
+2026-04,Varejo,Loja 02 · Zona Norte,Café,44522.73,15.5
+2026-04,Varejo,Loja 02 · Zona Norte,Óleo de soja,32227.99,7.0
+2026-04,Varejo,Loja 02 · Zona Norte,Azeite,20150.74,21.0
+2026-04,Varejo,Loja 02 · Zona Norte,Leite em pó,36224.64,6.0
+2026-04,Varejo,Loja 02 · Zona Norte,Leite UHT,43507.65,5.5
+2026-04,Varejo,Loja 02 · Zona Norte,Massas,22051.43,18.0
+2026-04,Varejo,Loja 02 · Zona Norte,Farinha de trigo,17936.34,12.0
+2026-04,Varejo,Loja 03 · Zona Sul,Arroz,71852.31,8.5
+2026-04,Varejo,Loja 03 · Zona Sul,Feijão,47292.81,11.0
+2026-04,Varejo,Loja 03 · Zona Sul,Açúcar,30678.82,9.0
+2026-04,Varejo,Loja 03 · Zona Sul,Café,51161.33,15.5
+2026-04,Varejo,Loja 03 · Zona Sul,Óleo de soja,35280.95,7.0
+2026-04,Varejo,Loja 03 · Zona Sul,Azeite,22500.69,21.0
+2026-04,Varejo,Loja 03 · Zona Sul,Leite em pó,42126.79,6.0
+2026-04,Varejo,Loja 03 · Zona Sul,Leite UHT,49746.89,5.5
+2026-04,Varejo,Loja 03 · Zona Sul,Massas,25305.47,18.0
+2026-04,Varejo,Loja 03 · Zona Sul,Farinha de trigo,19727.65,12.0
+2026-04,Varejo,Loja 04 · Zona Leste,Arroz,48874.49,8.5
+2026-04,Varejo,Loja 04 · Zona Leste,Feijão,33479.21,11.0
+2026-04,Varejo,Loja 04 · Zona Leste,Açúcar,20333.11,9.0
+2026-04,Varejo,Loja 04 · Zona Leste,Café,36424.72,15.5
+2026-04,Varejo,Loja 04 · Zona Leste,Óleo de soja,24435.96,7.0
+2026-04,Varejo,Loja 04 · Zona Leste,Azeite,15299.94,21.0
+2026-04,Varejo,Loja 04 · Zona Leste,Leite em pó,28905.27,6.0
+2026-04,Varejo,Loja 04 · Zona Leste,Leite UHT,33250.19,5.5
+2026-04,Varejo,Loja 04 · Zona Leste,Massas,18436.39,18.0
+2026-04,Varejo,Loja 04 · Zona Leste,Farinha de trigo,13684.85,12.0
+2026-04,Varejo,Loja 05 · Litoral,Arroz,44574.10,8.5
+2026-04,Varejo,Loja 05 · Litoral,Feijão,28235.72,11.0
+2026-04,Varejo,Loja 05 · Litoral,Açúcar,18669.61,9.0
+2026-04,Varejo,Loja 05 · Litoral,Café,32364.78,15.5
+2026-04,Varejo,Loja 05 · Litoral,Óleo de soja,22463.91,7.0
+2026-04,Varejo,Loja 05 · Litoral,Azeite,13919.20,21.0
+2026-04,Varejo,Loja 05 · Litoral,Leite em pó,25743.15,6.0
+2026-04,Varejo,Loja 05 · Litoral,Leite UHT,29909.00,5.5
+2026-04,Varejo,Loja 05 · Litoral,Massas,15326.58,18.0
+2026-04,Varejo,Loja 05 · Litoral,Farinha de trigo,12116.26,12.0
+2026-04,Venda externa,Rota 01 · Capital,Arroz,121991.24,6.3
+2026-04,Venda externa,Rota 01 · Capital,Feijão,83600.30,8.8
+2026-04,Venda externa,Rota 01 · Capital,Açúcar,50867.31,6.8
+2026-04,Venda externa,Rota 01 · Capital,Café,91415.14,13.3
+2026-04,Venda externa,Rota 01 · Capital,Óleo de soja,61419.14,4.8
+2026-04,Venda externa,Rota 01 · Capital,Azeite,39160.55,18.8
+2026-04,Venda externa,Rota 01 · Capital,Leite em pó,72275.56,3.8
+2026-04,Venda externa,Rota 01 · Capital,Leite UHT,86960.30,3.3
+2026-04,Venda externa,Rota 01 · Capital,Massas,45793.85,15.8
+2026-04,Venda externa,Rota 01 · Capital,Farinha de trigo,34898.18,9.8
+2026-04,Venda externa,Rota 02 · Interior,Arroz,88504.16,6.3
+2026-04,Venda externa,Rota 02 · Interior,Feijão,56812.99,8.8
+2026-04,Venda externa,Rota 02 · Interior,Açúcar,35065.00,6.8
+2026-04,Venda externa,Rota 02 · Interior,Café,62412.12,13.3
+2026-04,Venda externa,Rota 02 · Interior,Óleo de soja,41923.67,4.8
+2026-04,Venda externa,Rota 02 · Interior,Azeite,26781.48,18.8
+2026-04,Venda externa,Rota 02 · Interior,Leite em pó,49423.91,3.8
+2026-04,Venda externa,Rota 02 · Interior,Leite UHT,58042.89,3.3
+2026-04,Venda externa,Rota 02 · Interior,Massas,30665.13,15.8
+2026-04,Venda externa,Rota 02 · Interior,Farinha de trigo,23603.56,9.8
+2026-04,Venda externa,Rota 03 · Sertão,Arroz,59740.25,6.3
+2026-04,Venda externa,Rota 03 · Sertão,Feijão,37412.50,8.8
+2026-04,Venda externa,Rota 03 · Sertão,Açúcar,23698.73,6.8
+2026-04,Venda externa,Rota 03 · Sertão,Café,43186.43,13.3
+2026-04,Venda externa,Rota 03 · Sertão,Óleo de soja,28984.44,4.8
+2026-04,Venda externa,Rota 03 · Sertão,Azeite,18594.88,18.8
+2026-04,Venda externa,Rota 03 · Sertão,Leite em pó,34622.50,3.8
+2026-04,Venda externa,Rota 03 · Sertão,Leite UHT,39531.82,3.3
+2026-04,Venda externa,Rota 03 · Sertão,Massas,20715.19,15.8
+2026-04,Venda externa,Rota 03 · Sertão,Farinha de trigo,16611.59,9.8
+2026-05,Varejo,Loja 01 · Centro,Arroz,82674.66,8.5
+2026-05,Varejo,Loja 01 · Centro,Feijão,54688.15,11.0
+2026-05,Varejo,Loja 01 · Centro,Açúcar,35232.94,9.0
+2026-05,Varejo,Loja 01 · Centro,Café,61007.16,15.5
+2026-05,Varejo,Loja 01 · Centro,Óleo de soja,43112.56,7.0
+2026-05,Varejo,Loja 01 · Centro,Azeite,26058.18,21.0
+2026-05,Varejo,Loja 01 · Centro,Leite em pó,50117.79,6.0
+2026-05,Varejo,Loja 01 · Centro,Leite UHT,56480.29,5.5
+2026-05,Varejo,Loja 01 · Centro,Massas,29921.43,18.0
+2026-05,Varejo,Loja 01 · Centro,Farinha de trigo,22931.52,12.0
+2026-05,Varejo,Loja 02 · Zona Norte,Arroz,64204.36,8.5
+2026-05,Varejo,Loja 02 · Zona Norte,Feijão,42127.91,11.0
+2026-05,Varejo,Loja 02 · Zona Norte,Açúcar,25801.71,9.0
+2026-05,Varejo,Loja 02 · Zona Norte,Café,46155.84,15.5
+2026-05,Varejo,Loja 02 · Zona Norte,Óleo de soja,30642.04,7.0
+2026-05,Varejo,Loja 02 · Zona Norte,Azeite,20047.98,21.0
+2026-05,Varejo,Loja 02 · Zona Norte,Leite em pó,37499.31,6.0
+2026-05,Varejo,Loja 02 · Zona Norte,Leite UHT,41844.70,5.5
+2026-05,Varejo,Loja 02 · Zona Norte,Massas,21943.85,18.0
+2026-05,Varejo,Loja 02 · Zona Norte,Farinha de trigo,17380.08,12.0
+2026-05,Varejo,Loja 03 · Zona Sul,Arroz,72153.68,8.5
+2026-05,Varejo,Loja 03 · Zona Sul,Feijão,45986.03,11.0
+2026-05,Varejo,Loja 03 · Zona Sul,Açúcar,29384.11,9.0
+2026-05,Varejo,Loja 03 · Zona Sul,Café,51035.51,15.5
+2026-05,Varejo,Loja 03 · Zona Sul,Óleo de soja,36585.55,7.0
+2026-05,Varejo,Loja 03 · Zona Sul,Azeite,22409.95,21.0
+2026-05,Varejo,Loja 03 · Zona Sul,Leite em pó,42607.82,6.0
+2026-05,Varejo,Loja 03 · Zona Sul,Leite UHT,47380.78,5.5
+2026-05,Varejo,Loja 03 · Zona Sul,Massas,25113.24,18.0
+2026-05,Varejo,Loja 03 · Zona Sul,Farinha de trigo,19763.39,12.0
+2026-05,Varejo,Loja 04 · Zona Leste,Arroz,48864.80,8.5
+2026-05,Varejo,Loja 04 · Zona Leste,Feijão,32505.34,11.0
+2026-05,Varejo,Loja 04 · Zona Leste,Açúcar,20891.78,9.0
+2026-05,Varejo,Loja 04 · Zona Leste,Café,35115.75,15.5
+2026-05,Varejo,Loja 04 · Zona Leste,Óleo de soja,24477.34,7.0
+2026-05,Varejo,Loja 04 · Zona Leste,Azeite,15316.09,21.0
+2026-05,Varejo,Loja 04 · Zona Leste,Leite em pó,28994.53,6.0
+2026-05,Varejo,Loja 04 · Zona Leste,Leite UHT,33965.37,5.5
+2026-05,Varejo,Loja 04 · Zona Leste,Massas,17742.60,18.0
+2026-05,Varejo,Loja 04 · Zona Leste,Farinha de trigo,13922.90,12.0
+2026-05,Varejo,Loja 05 · Litoral,Arroz,45008.60,8.5
+2026-05,Varejo,Loja 05 · Litoral,Feijão,28927.42,11.0
+2026-05,Varejo,Loja 05 · Litoral,Açúcar,18310.47,9.0
+2026-05,Varejo,Loja 05 · Litoral,Café,31466.18,15.5
+2026-05,Varejo,Loja 05 · Litoral,Óleo de soja,21775.30,7.0
+2026-05,Varejo,Loja 05 · Litoral,Azeite,13500.70,21.0
+2026-05,Varejo,Loja 05 · Litoral,Leite em pó,26148.78,6.0
+2026-05,Varejo,Loja 05 · Litoral,Leite UHT,29126.88,5.5
+2026-05,Varejo,Loja 05 · Litoral,Massas,15797.12,18.0
+2026-05,Varejo,Loja 05 · Litoral,Farinha de trigo,11964.62,12.0
+2026-05,Venda externa,Rota 01 · Capital,Arroz,122540.62,6.3
+2026-05,Venda externa,Rota 01 · Capital,Feijão,80472.29,8.8
+2026-05,Venda externa,Rota 01 · Capital,Açúcar,51005.66,6.8
+2026-05,Venda externa,Rota 01 · Capital,Café,92350.38,13.3
+2026-05,Venda externa,Rota 01 · Capital,Óleo de soja,61179.38,4.8
+2026-05,Venda externa,Rota 01 · Capital,Azeite,39852.08,18.8
+2026-05,Venda externa,Rota 01 · Capital,Leite em pó,74892.02,3.8
+2026-05,Venda externa,Rota 01 · Capital,Leite UHT,84082.82,3.3
+2026-05,Venda externa,Rota 01 · Capital,Massas,45829.59,15.8
+2026-05,Venda externa,Rota 01 · Capital,Farinha de trigo,33947.49,9.8
+2026-05,Venda externa,Rota 02 · Interior,Arroz,87350.37,6.3
+2026-05,Venda externa,Rota 02 · Interior,Feijão,55277.80,8.8
+2026-05,Venda externa,Rota 02 · Interior,Açúcar,35983.04,6.8
+2026-05,Venda externa,Rota 02 · Interior,Café,63657.57,13.3
+2026-05,Venda externa,Rota 02 · Interior,Óleo de soja,42054.09,4.8
+2026-05,Venda externa,Rota 02 · Interior,Azeite,27473.74,18.8
+2026-05,Venda externa,Rota 02 · Interior,Leite em pó,50529.86,3.8
+2026-05,Venda externa,Rota 02 · Interior,Leite UHT,57543.80,3.3
+2026-05,Venda externa,Rota 02 · Interior,Massas,30821.48,15.8
+2026-05,Venda externa,Rota 02 · Interior,Farinha de trigo,23855.89,9.8
+2026-05,Venda externa,Rota 03 · Sertão,Arroz,58647.36,6.3
+2026-05,Venda externa,Rota 03 · Sertão,Feijão,38076.18,8.8
+2026-05,Venda externa,Rota 03 · Sertão,Açúcar,24796.37,6.8
+2026-05,Venda externa,Rota 03 · Sertão,Café,42370.92,13.3
+2026-05,Venda externa,Rota 03 · Sertão,Óleo de soja,28833.79,4.8
+2026-05,Venda externa,Rota 03 · Sertão,Azeite,18208.65,18.8
+2026-05,Venda externa,Rota 03 · Sertão,Leite em pó,33561.88,3.8
+2026-05,Venda externa,Rota 03 · Sertão,Leite UHT,40372.52,3.3
+2026-05,Venda externa,Rota 03 · Sertão,Massas,21224.92,15.8
+2026-05,Venda externa,Rota 03 · Sertão,Farinha de trigo,16248.79,9.8
+2026-06,Varejo,Loja 01 · Centro,Arroz,84208.62,8.5
+2026-06,Varejo,Loja 01 · Centro,Feijão,56466.89,11.0
+2026-06,Varejo,Loja 01 · Centro,Açúcar,35548.90,9.0
+2026-06,Varejo,Loja 01 · Centro,Café,61671.70,15.5
+2026-06,Varejo,Loja 01 · Centro,Óleo de soja,41779.66,7.0
+2026-06,Varejo,Loja 01 · Centro,Azeite,26476.41,21.0
+2026-06,Varejo,Loja 01 · Centro,Leite em pó,50902.13,6.0
+2026-06,Varejo,Loja 01 · Centro,Leite UHT,56450.12,5.5
+2026-06,Varejo,Loja 01 · Centro,Massas,31370.67,18.0
+2026-06,Varejo,Loja 01 · Centro,Farinha de trigo,23465.71,12.0
+2026-06,Varejo,Loja 02 · Zona Norte,Arroz,62287.57,8.5
+2026-06,Varejo,Loja 02 · Zona Norte,Feijão,42257.32,11.0
+2026-06,Varejo,Loja 02 · Zona Norte,Açúcar,26931.83,9.0
+2026-06,Varejo,Loja 02 · Zona Norte,Café,46029.57,15.5
+2026-06,Varejo,Loja 02 · Zona Norte,Óleo de soja,32432.34,7.0
+2026-06,Varejo,Loja 02 · Zona Norte,Azeite,19806.50,21.0
+2026-06,Varejo,Loja 02 · Zona Norte,Leite em pó,38222.80,6.0
+2026-06,Varejo,Loja 02 · Zona Norte,Leite UHT,41635.45,5.5
+2026-06,Varejo,Loja 02 · Zona Norte,Massas,22535.07,18.0
+2026-06,Varejo,Loja 02 · Zona Norte,Farinha de trigo,18059.86,12.0
+2026-06,Varejo,Loja 03 · Zona Sul,Arroz,75018.25,8.5
+2026-06,Varejo,Loja 03 · Zona Sul,Feijão,47402.06,11.0
+2026-06,Varejo,Loja 03 · Zona Sul,Açúcar,29483.87,9.0
+2026-06,Varejo,Loja 03 · Zona Sul,Café,50951.09,15.5
+2026-06,Varejo,Loja 03 · Zona Sul,Óleo de soja,35402.46,7.0
+2026-06,Varejo,Loja 03 · Zona Sul,Azeite,22177.65,21.0
+2026-06,Varejo,Loja 03 · Zona Sul,Leite em pó,43318.30,6.0
+2026-06,Varejo,Loja 03 · Zona Sul,Leite UHT,49090.40,5.5
+2026-06,Varejo,Loja 03 · Zona Sul,Massas,26357.13,18.0
+2026-06,Varejo,Loja 03 · Zona Sul,Farinha de trigo,19991.74,12.0
+2026-06,Varejo,Loja 04 · Zona Leste,Arroz,51653.03,8.5
+2026-06,Varejo,Loja 04 · Zona Leste,Feijão,32600.23,11.0
+2026-06,Varejo,Loja 04 · Zona Leste,Açúcar,21573.92,9.0
+2026-06,Varejo,Loja 04 · Zona Leste,Café,37058.51,15.5
+2026-06,Varejo,Loja 04 · Zona Leste,Óleo de soja,25224.74,7.0
+2026-06,Varejo,Loja 04 · Zona Leste,Azeite,15655.69,21.0
+2026-06,Varejo,Loja 04 · Zona Leste,Leite em pó,28951.12,6.0
+2026-06,Varejo,Loja 04 · Zona Leste,Leite UHT,34346.62,5.5
+2026-06,Varejo,Loja 04 · Zona Leste,Massas,17786.59,18.0
+2026-06,Varejo,Loja 04 · Zona Leste,Farinha de trigo,13861.19,12.0
+2026-06,Varejo,Loja 05 · Litoral,Arroz,44719.66,8.5
+2026-06,Varejo,Loja 05 · Litoral,Feijão,28400.87,11.0
+2026-06,Varejo,Loja 05 · Litoral,Açúcar,17779.59,9.0
+2026-06,Varejo,Loja 05 · Litoral,Café,30979.85,15.5
+2026-06,Varejo,Loja 05 · Litoral,Óleo de soja,21526.07,7.0
+2026-06,Varejo,Loja 05 · Litoral,Azeite,13896.36,21.0
+2026-06,Varejo,Loja 05 · Litoral,Leite em pó,25794.75,6.0
+2026-06,Varejo,Loja 05 · Litoral,Leite UHT,30556.57,5.5
+2026-06,Varejo,Loja 05 · Litoral,Massas,15535.51,18.0
+2026-06,Varejo,Loja 05 · Litoral,Farinha de trigo,12357.83,12.0
+2026-06,Venda externa,Rota 01 · Capital,Arroz,122977.53,6.3
+2026-06,Venda externa,Rota 01 · Capital,Feijão,84291.97,8.8
+2026-06,Venda externa,Rota 01 · Capital,Açúcar,51421.12,6.8
+2026-06,Venda externa,Rota 01 · Capital,Café,91201.75,13.3
+2026-06,Venda externa,Rota 01 · Capital,Óleo de soja,64354.03,4.8
+2026-06,Venda externa,Rota 01 · Capital,Azeite,40796.34,18.8
+2026-06,Venda externa,Rota 01 · Capital,Leite em pó,73826.94,3.8
+2026-06,Venda externa,Rota 01 · Capital,Leite UHT,87726.48,3.3
+2026-06,Venda externa,Rota 01 · Capital,Massas,45615.01,15.8
+2026-06,Venda externa,Rota 01 · Capital,Farinha de trigo,34298.40,9.8
+2026-06,Venda externa,Rota 02 · Interior,Arroz,89225.90,6.3
+2026-06,Venda externa,Rota 02 · Interior,Feijão,56177.98,8.8
+2026-06,Venda externa,Rota 02 · Interior,Açúcar,35448.66,6.8
+2026-06,Venda externa,Rota 02 · Interior,Café,63334.85,13.3
+2026-06,Venda externa,Rota 02 · Interior,Óleo de soja,44266.13,4.8
+2026-06,Venda externa,Rota 02 · Interior,Azeite,27251.54,18.8
+2026-06,Venda externa,Rota 02 · Interior,Leite em pó,52500.30,3.8
+2026-06,Venda externa,Rota 02 · Interior,Leite UHT,59626.45,3.3
+2026-06,Venda externa,Rota 02 · Interior,Massas,31651.28,15.8
+2026-06,Venda externa,Rota 02 · Interior,Farinha de trigo,23936.33,9.8
+2026-06,Venda externa,Rota 03 · Sertão,Arroz,60534.05,6.3
+2026-06,Venda externa,Rota 03 · Sertão,Feijão,39856.17,8.8
+2026-06,Venda externa,Rota 03 · Sertão,Açúcar,24333.72,6.8
+2026-06,Venda externa,Rota 03 · Sertão,Café,42215.85,13.3
+2026-06,Venda externa,Rota 03 · Sertão,Óleo de soja,29090.56,4.8
+2026-06,Venda externa,Rota 03 · Sertão,Azeite,19011.60,18.8
+2026-06,Venda externa,Rota 03 · Sertão,Leite em pó,34133.35,3.8
+2026-06,Venda externa,Rota 03 · Sertão,Leite UHT,39412.58,3.3
+2026-06,Venda externa,Rota 03 · Sertão,Massas,21063.09,15.8
+2026-06,Venda externa,Rota 03 · Sertão,Farinha de trigo,16351.22,9.8
